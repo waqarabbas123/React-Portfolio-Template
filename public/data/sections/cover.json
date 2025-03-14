@@ -1,0 +1,244 @@
+{
+    "locales": {
+        "en": {
+            "title": "Welcome!",
+            "title_menu": "About me",
+            "title_long_prefix": "Hello...",
+            "title_long": "I'm **Waqar Abbas !**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "ignorePaddingTop": true,
+                "format": "inline"
+            },
+            "locales": {
+                "en": {},
+                "es": {},
+                "fr": {},
+                "ko": {}
+            },
+
+            "items": [
+                {
+                    "value": "Gilgi Baltistan – Pakistan",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-city",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "waqar23999@gmail.com",
+                    "links": [
+                        {"href": "mailto:waqar23999@gmail.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "@sharliat",
+                    "links": [
+                        {"href": "https://github.com/waqarabbas123"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "short_description",
+            "component": "ArticleInfoBlock",
+            "config": {},
+            "locales": {
+                "en": {"title": "**A little bit** about me..."},
+                "es": {"title": "**Un poco** sobre mí..."},
+                "fr": {"title": "**Un peu** à propos de moi..."},
+                "ko": {"title": "저에 **대해 조금**..."}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/svg/logo.svg",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"text": "I’m a MERN stack developer with over 3+ years of experience, specializing in building scalable and high-performance web applications. My expertise spans MongoDB, Express.js, React.js, and Node.js, allowing me to develop full-stack solutions from database design to frontend interfaces.I also have hands-on experience with modern UI frameworks like Tailwind CSS and Bootstrap, ensuring visually appealing and responsive designs.This diverse background enables me to adapt to various project requirements efficiently."}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "testimonials",
+            "component": "ArticleTestimonials",
+            "config": {},
+            "locales": {
+                "en": {"title": "Client **testimonials**"}
+            },
+
+            "items": [
+                {
+                    "value": "Anita Bath",
+                    "links": [
+                        {"href": "https://linkedin.com"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-1.png",
+                        "fa": "fa-solid fa-user",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "CEO at <b>SalesForce</b>",
+                            "text": "Working with Mark was a transformative experience. His programming skills and dedication not only improved our project but also inspired the entire team."
+                        }
+                    }
+                },
+
+                {
+                    "value": "Lou Natic",
+                    "links": [
+                        {"href": "https://github.com"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-3.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Lead Developer at <b>GitHub</b>",
+                            "text": "Having Mark on our team was an invaluable asset. His deep programming insights and mentorship not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
+                        }
+                    }
+                },
+
+                {
+                    "value": "Paige Turner",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-2.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Managing Director at <b>Dingga</b>",
+                            "text": "Collaborating with Mark was a game changer for our development process. His expertise and problem-solving abilities were invaluable to our success."
+                        }
+                    }
+                },
+
+                {
+                    "value": "Chris P. Bacon",
+                    "links": [
+                        {"href": "https://dribbble.com"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-4.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Creative Director at <b>Dribbble</b>",
+                            "text": "Mark's attention to detail and his innovative thinking brought a fresh perspective to our design process. He truly elevated our team's work and helped us deliver results beyond expectations."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "interests",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Personal **interests**"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-video",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "AI video editing",
+                            "info": "Learning to use AI tools to enhance my videos."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-chart-line",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Investing",
+                            "info": "Learning the basics of stocks and personal finance."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-pencil-alt",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "UX design",
+                            "info": "Studying user experience principles."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-camera-retro",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Photo editing",
+                            "info": "Enhancing photos through creative editing techniques."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

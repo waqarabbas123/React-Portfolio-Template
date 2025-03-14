@@ -1,0 +1,100 @@
+{
+    "locales": {
+        "en": {
+            "title": "Education",
+            "title_long_prefix": "This is my",
+            "title_long": "**Educational** Background"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "academic",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/place-5.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "01/07/2021",
+                        "end": "12/12/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Front End **Development",
+                            "info": "3Beez Technologies",
+                            "text": "As a front-end developer, I specialize in crafting visually appealing, highly responsive, and user-friendly web interfaces. Using modern technologies like HTML, CSS, JavaScript, and frameworks such as React.js and Next.js, I bring designs to life with seamless interactivity. My focus is on performance, accessibility, and cross-device compatibility to ensure the best user experience.",
+                            "tags": []
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/place-2.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "12/12/2021",
+                        "end": "20/08/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "PHP Development **Nanodegree**",
+                            "info": "Technity Solution privite Ltd ",
+                            "text": "Completed an intensive Nanodegree program focused on PHP development, covering essential skills like backend programming, database management, and web application deployment. This course provided a solid foundation in modern PHP practices.",
+                            "tags": ["PHP 2+", "Laravel", "MongoDB"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/place-6.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "20/08/2022",
+                        "end": "06/01/2026"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Bachelor's** in Computer Science",
+                            "info": "Karakurum International University",
+                            "text": "I earned my Bachelor's degree in Computer Science from Karakoram International University (KIU), specializing in software development, database management, and front-end technologies. During my studies, I worked on various projects involving JavaScript, React.js, Node.js, and cloud-based applications. My education provided me with both theoretical knowledge and practical skills, enabling me to develop scalable and efficient software solutions.",
+                            "tags": ["Python Development" , "SQL" , "PHP 2+"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/place-4.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "09/01/2022",
+                        "end": "06/01/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**MERN** Stack Development",
+                            "info": "Technity Solutins",
+                            "text": "I am a MERN stack developer with expertise in creating dynamic, responsive, and high-performing web applications. My skill set includes building RESTful APIs with Node.js and Express, designing NoSQL databases with MongoDB, and developing interactive UIs with React.js. I focus on writing clean, efficient code and optimizing applications for speed, security, and scalability.",
+                            "tags": ["Node Js ", "React Js", "MongoDB", "Next Js " , "Express JS" , "Vue Js ", "Angular Js"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
