@@ -22,8 +22,8 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "03/01/2016",
-                        "end": "06/01/2018"
+                        "start": "03/03/2020",
+                        "end": "06/08/2020"
                     },
                     "locales": {
                         "en": {
@@ -41,8 +41,8 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "06/01/2018",
-                        "end": "12/01/2020"
+                        "start": "06/08/2020",
+                        "end": "12/11/2020"
                     },
                     "locales": {
                         "en": {
@@ -60,7 +60,7 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "12/01/2020",
+                        "start": "12/11/2020",
                         "end": "11/01/2022"
                     },
                     "locales": {
